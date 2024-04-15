@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\20240415_calculater_main\20240415_calculater_main\main.cpp(53,20): warning C4806: '==': 안전하지 않은 연산입니다. 'bool' 형식의 값('char' 형식으로 확장)이 주어진 상수와 같을 수 없습니다.
+C:\Users\user\Desktop\20240415_calculater_main\20240415_calculater_main\main.cpp(98): error C4700: 초기화되지 않은 'n' 지역 변수를 사용했습니다.
+C:\Users\user\Desktop\20240415_calculater_main\20240415_calculater_main\main.cpp(15): error C4700: 초기화되지 않은 'n' 지역 변수를 사용했습니다.
