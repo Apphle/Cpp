@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\20240509\20240509\main.cpp(39,15): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\20240509\20240509\main.cpp(60,15): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  20240509.vcxproj -> C:\Users\user\Desktop\20240509\x64\Debug\20240509.exe
